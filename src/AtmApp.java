@@ -18,6 +18,7 @@ public class AtmApp {
         System.out.println();
         
         //remote repoda degisiklik yaptim
+        //gitde degisiklik yaptim
 
 
 
